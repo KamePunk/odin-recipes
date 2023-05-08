@@ -4,8 +4,10 @@ body {
 }
 
 .food {
-   height: 350;
-   width: auto; 
+   height: 300;
+   width: 450; 
+   border: 3px solid white;
+   margin: 10px;
 }
 
 body {
